@@ -1,5 +1,5 @@
 # Reading List
-#### - [x] **Our Final Invention: Artificial Intelligence and the End of the Human Era** *by James Barrat*
+- [x] **Our Final Invention: Artificial Intelligence and the End of the Human Era** *by James Barrat*
 - [ ] **Code: The Hidden Language of Computer Hardware and Software** *by Charles Petzold*
 - [ ] **The Innovator’s Dilemma: When New Technologies Cause Great Firms to Fail** *by Clayton M. Christensen*
 - [ ] **What If?: Serious Scientific Answers to Absurd Hypothetical Questions** *by Randall Munroe*
