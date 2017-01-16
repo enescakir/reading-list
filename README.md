@@ -1,1 +1,13 @@
-# reading-list
+# Reading List
+- [x] Our Final Invention: Artificial Intelligence and the End of the Human Era
+- [ ] Code: The Hidden Language of Computer Hardware and Software
+- [ ] The Innovator’s Dilemma: When New Technologies Cause Great Firms to Fail 
+- [ ] What If?: Serious Scientific Answers to Absurd Hypothetical Questions
+- [ ] Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World
+- [ ] Moby Dick
+- [ ] Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company
+- [ ] The Tao of Programming
+- [ ] Design Patterns: Elements of Reusable Object-Oriented Software
+- [ ] Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
+- [ ] Hooked: How to Build Habit-Forming Products
+- [ ] Superintelligence: Paths, Dangers, Strategies
