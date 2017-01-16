@@ -11,3 +11,8 @@
 - [ ] Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
 - [ ] Hooked: How to Build Habit-Forming Products
 - [ ] Superintelligence: Paths, Dangers, Strategies
+- [ ] The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution
+- [ ] Clean Code: A Handbook of Agile Software Craftsmanship
+- [ ] The Clean Coder: A Code of Conduct for Professional Programmers *by Robert C. Martin*
+- [ ] The Mythical Man-Month: Essays on Software Engineering * by Frederick P. Brooks Jr.*
+- [ ] The Pragmatic Programmer: From Journeyman to Master *by Andrew Hunt, David Thomas* 
