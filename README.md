@@ -1,11 +1,11 @@
 # Reading List
-- [x] **Our Final Invention: Artificial Intelligence and the End of the Human Era** *by James Barrat*
+#### - [x] **Our Final Invention: Artificial Intelligence and the End of the Human Era** *by James Barrat*
 - [ ] **Code: The Hidden Language of Computer Hardware and Software** *by Charles Petzold*
 - [ ] **The Innovator’s Dilemma: When New Technologies Cause Great Firms to Fail** *by Clayton M. Christensen*
 - [ ] **What If?: Serious Scientific Answers to Absurd Hypothetical Questions** *by Randall Munroe*
 - [ ] **Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World** *by Mark Miodownik*
 - [ ] **Moby Dick** *by Herman Melville*
-- [ ] Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company **
+- [ ] **Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company** *by Andrew S. Grove*
 - [ ] **The Tao of Programming** *by Geoffrey James*
 - [ ] **Design Patterns: Elements of Reusable Object-Oriented Software** *by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides*
 - [ ] **Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability** *by Steve Krug*
