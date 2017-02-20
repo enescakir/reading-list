@@ -15,4 +15,6 @@
 - [ ] **Clean Code: A Handbook of Agile Software Craftsmanship** *by Robert C. Martin*
 - [ ] **The Clean Coder: A Code of Conduct for Professional Programmers** *by Robert C. Martin*
 - [ ] **The Mythical Man-Month: Essays on Software Engineering** *by Frederick P. Brooks Jr.*
-- [ ] **The Pragmatic Programmer: From Journeyman to Master** *by Andrew Hunt, David Thomas* 
+- [ ] **The Pragmatic Programmer: From Journeyman to Master** *by Andrew Hunt, David Thomas*
+- [ ] **Code Complete: A Practical Handbook of Software Construction** *by Steve McConnell*
+- [ ] **Concepts of Programming Languages** *Robert W. Sebesta*
