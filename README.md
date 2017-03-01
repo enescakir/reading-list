@@ -22,35 +22,35 @@
 
 ## Albert Ali Salah Recommendations
 #### Fiction
-- [ ] **One Day in the Life of Ivan Denisovich** *by Aleksandr Solzhenitsyn*
-- [ ] **The Demolished Man** *by Alfred Bester*
-- [ ] **Reading Lolita in Tehran** *by Azar Nafisi*
-- [ ] **The Canal Dreams** *by Iain Banks*
-- [ ] **Invisible Cities** *by Italo Calvino*
-- [ ] **Catch-22** *by Joseph Heller*
-- [ ] **Hopscotch** *by Julio Cortazar*
-- [ ] **Never Let Me Go** *by Kazuo Ishiguro*
-- [ ] **Galapagos** *by Kurt Vonnegut*
-- [ ] **Like Water for Chocolate** *by Laura Esquivel*
-- [ ] **The Master and Margarita** *by Mikhail Bulgakov*
-- [ ] **And Quiet Flows the Don** *by Mikhail Sholokhov*
-- [ ] **The Unbearable Lightness of Being** *by Milan Kundera*
-- [ ] **Neverwhere** *by Neil Gaiman*
-- [ ] **The Invention of Solitude** *by Paul Auster*
-- [ ] **The Cyberiad : Fables for The Cybernetic Age** *by Stanislaw Lem*
+- [ ] **One Day in the Life of Ivan Denisovich** *by Aleksandr Solzhenitsyn* - 224 pages
+- [ ] **The Demolished Man** *by Alfred Bester* - 224 pages
+- [ ] **Reading Lolita in Tehran** *by Azar Nafisi* - 400 pages
+- [ ] **The Canal Dreams** *by Iain Banks* - 288 pages
+- [ ] **Invisible Cities** *by Italo Calvino* - 165 pages
+- [ ] **Catch-22** *by Joseph Heller* - 544 pages
+- [ ] **Hopscotch** *by Julio Cortazar* - 576 pages
+- [ ] **Never Let Me Go** *by Kazuo Ishiguro* - 288 pages
+- [ ] **Galapagos** *by Kurt Vonnegut* - 336 pages
+- [ ] **Like Water for Chocolate** *by Laura Esquivel* - 256 pages
+- [ ] **The Master and Margarita** *by Mikhail Bulgakov* - 448 pages
+- [ ] **And Quiet Flows the Don** *by Mikhail Sholokhov* - 568 pages
+- [ ] **The Unbearable Lightness of Being** *by Milan Kundera* - 320 pages
+- [ ] **Neverwhere** *by Neil Gaiman* - 480 pages
+- [ ] **The Invention of Solitude** *by Paul Auster* - 192 pages
+- [ ] **The Cyberiad : Fables for The Cybernetic Age** *by Stanislaw Lem* - 295 pages
 
 #### Non-fiction
-- [ ] **Curiosity** *by Alberto Manguel*
-- [ ] **The Story of art** *by Ernest Gombrich*
-- [ ] **The birth of the mind : how a tiny number of genes creates the complexities of human thought** *by Gary Marcus*
-- [ ] **Turing's cathedral : the origins of the digital universe** *George Dyson*
-- [ ] **The political mind : a cognitive scientist's guide to your brain and its politics** *George Lakoff*
-- [ ] **Metaphors we live by** *by George Lakoff, Mark Johnson*
-- [ ] **The language and thought of the child** *by Jean Piaget*
-- [ ] **Rethinking innateness : a connectionist perspective on development** *by Jeff Elman et al.*
-- [ ] **The society of mind** *by Marvin Minsky*
-- [ ] **Complexity** *by Mitchell Waldrop*
-- [ ] **Seeing voices : a journey into the world of the deaf** *by Oliver Sacks*
-- [ ] **The man who mistook his wife for a hat and other clinical tales** *by Oliver Sacks*
-- [ ] **In search of the human mind** *by Robert J. Sternberg*
-- [ ] **We are our brains** *by Dick Swaab*
+- [ ] **Curiosity** *by Alberto Manguel* - 392 pages
+- [ ] **The Story of Art** *by Ernest Gombrich* - 688 pages
+- [ ] **The birth of the mind : how a tiny number of genes creates the complexities of human thought** *by Gary Marcus* - 288 pages
+- [ ] **Turing's cathedral : the origins of the digital universe** *George Dyson* - 464 pages
+- [ ] **The political mind : a cognitive scientist's guide to your brain and its politics** *George Lakoff* - 320 pages
+- [ ] **Metaphors we live by** *by George Lakoff, Mark Johnson* - 242 pages
+- [ ] **The language and thought of the child** *by Jean Piaget* - 320 pages
+- [ ] **Rethinking innateness : a connectionist perspective on development** *by Jeff Elman et al.* - 447 pages
+- [ ] **The society of mind** *by Marvin Minsky* - 336 pages
+- [ ] **Complexity** *by Mitchell Waldrop* - 384 pages
+- [ ] **Seeing voices : a journey into the world of the deaf** *by Oliver Sacks* - 240 pages
+- [ ] **The man who mistook his wife for a hat and other clinical tales** *by Oliver Sacks* - The man who mistook his wife
+- [ ] **In search of the human mind** *by Robert J. Sternberg* - 784 pages
+- [ ] **We are our brains** *by Dick Swaab* - 448 pages
