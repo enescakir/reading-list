@@ -1,24 +1,29 @@
 # Reading List
 - [x] **Our Final Invention: Artificial Intelligence and the End of the Human Era** *by James Barrat*
 - [ ] **Code: The Hidden Language of Computer Hardware and Software** *by Charles Petzold* - 400 pages
-- [ ] **The Innovator’s Dilemma: When New Technologies Cause Great Firms to Fail** *by Clayton M. Christensen* - 288 pages
-- [ ] **What If?: Serious Scientific Answers to Absurd Hypothetical Questions** *by Randall Munroe* - 320 pages
-- [ ] **Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World** *by Mark Miodownik* - 272 pages
-- [ ] **Moby Dick** *by Herman Melville* - 256 pages
-- [ ] **Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company** *by Andrew S. Grove* - 240 pages
-- [x] **The Tao of Programming** *by Geoffrey James*
 - [ ] **Design Patterns: Elements of Reusable Object-Oriented Software** *by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides* - 395 pages
 - [ ] **Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability** *by Steve Krug* - 216 pages
 - [ ] **Hooked: How to Build Habit-Forming Products** *by Nir Eyal* - 256 pages
 - [ ] **Superintelligence: Paths, Dangers, Strategies** *by Nick Bostrom* - 390 pages
 - [ ] **The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution** *by Walter Isaacson* - 560 pages
 - [ ] **Clean Code: A Handbook of Agile Software Craftsmanship** *by Robert C. Martin* - 464 pages
-
 - [ ] **The Clean Coder: A Code of Conduct for Professional Programmers** *by Robert C. Martin* - 256 pages
 - [ ] **The Mythical Man-Month: Essays on Software Engineering** *by Frederick P. Brooks Jr.* - 336 pages
 - [ ] **The Pragmatic Programmer: From Journeyman to Master** *by Andrew Hunt, David Thomas* - 352 pages
 - [ ] **Code Complete: A Practical Handbook of Software Construction** *by Steve McConnell* - 960 pages
 - [ ] **Concepts of Programming Languages** *Robert W. Sebesta* - 792 pages
+## Steve Jobs Recommendations
+- [ ] **Moby Dick** *by Herman Melville* - 256 pages
+- [ ] **The Innovator’s Dilemma: When New Technologies Cause Great Firms to Fail** *by Clayton M. Christensen* - 288 pages
+- [x] **The Tao of Programming** *by Geoffrey James*
+- [ ] **Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company** *by Andrew S. Grove* - 240 pages
+
+## Bill Gates Recommendations
+- [ ] **Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World** *by Mark Miodownik* - 272 pages
+- [ ] **What If?: Serious Scientific Answers to Absurd Hypothetical Questions** *by Randall Munroe* - 320 pages
+- [ ] **The Sixth Extinction: An Unnatural History** *by Elizabeth Kolber* - 336 pages
+- [ ] **The Man Who Fed the World** *by Leon Hesser* - 276 pages
+- [ ] **The Rosie Project: A Novel** *by Graeme Simsion* - 304 pages
 
 ## Albert Ali Salah Recommendations
 #### Fiction
