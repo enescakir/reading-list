@@ -12,6 +12,7 @@
 - [ ] **The Pragmatic Programmer: From Journeyman to Master** *by Andrew Hunt, David Thomas* - 352 pages
 - [ ] **Code Complete: A Practical Handbook of Software Construction** *by Steve McConnell* - 960 pages
 - [ ] **Concepts of Programming Languages** *Robert W. Sebesta* - 792 pages
+
 ## Steve Jobs Recommendations
 - [ ] **Moby Dick** *by Herman Melville* - 256 pages
 - [ ] **The Innovator’s Dilemma: When New Technologies Cause Great Firms to Fail** *by Clayton M. Christensen* - 288 pages
