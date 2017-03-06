@@ -33,7 +33,7 @@
 - [ ] **The Demolished Man** *by Alfred Bester* - 224 pages
 - [ ] **Reading Lolita in Tehran** *by Azar Nafisi* - 400 pages
 - [ ] **The Canal Dreams** *by Iain Banks* - 288 pages
-- [ ] **Invisible Cities** *by Italo Calvino* - 165 pages
+- [x] **Invisible Cities** *by Italo Calvino*
 - [ ] **Catch-22** *by Joseph Heller* - 544 pages
 - [ ] **Hopscotch** *by Julio Cortazar* - 576 pages
 - [ ] **Never Let Me Go** *by Kazuo Ishiguro* - 288 pages
