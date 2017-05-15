@@ -1,5 +1,5 @@
 # Reading List
-- [x] **Our Final Invention: Artificial Intelligence and the End of the Human Era** *by James Barrat*
+- [ ] **Our Final Invention: Artificial Intelligence and the End of the Human Era** *by James Barrat* - 322 pages
 - [ ] **Code: The Hidden Language of Computer Hardware and Software** *by Charles Petzold* - 400 pages
 - [ ] **Design Patterns: Elements of Reusable Object-Oriented Software** *by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides* - 395 pages
 - [ ] **Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability** *by Steve Krug* - 216 pages
@@ -17,7 +17,7 @@
 ## Steve Jobs Recommendations
 - [ ] **Moby Dick** *by Herman Melville* - 256 pages
 - [ ] **The Innovator’s Dilemma: When New Technologies Cause Great Firms to Fail** *by Clayton M. Christensen* - 288 pages
-- [x] **The Tao of Programming** *by Geoffrey James*
+- [ ] **The Tao of Programming** *by Geoffrey James* - 78 pages
 - [ ] **Only the Paranoid Survive: How to Exploit the Crisis Points That Challenge Every Company** *by Andrew S. Grove* - 240 pages
 
 ## Bill Gates Recommendations
@@ -33,7 +33,7 @@
 - [ ] **The Demolished Man** *by Alfred Bester* - 224 pages
 - [ ] **Reading Lolita in Tehran** *by Azar Nafisi* - 400 pages
 - [ ] **The Canal Dreams** *by Iain Banks* - 288 pages
-- [x] **Invisible Cities** *by Italo Calvino*
+- [ ] **Invisible Cities** *by Italo Calvino* - 165 pages
 - [ ] **Catch-22** *by Joseph Heller* - 544 pages
 - [ ] **Hopscotch** *by Julio Cortazar* - 576 pages
 - [ ] **Never Let Me Go** *by Kazuo Ishiguro* - 288 pages
