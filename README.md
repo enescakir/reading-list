@@ -1,5 +1,5 @@
 # Reading List
-- [ ] **Our Final Invention: Artificial Intelligence and the End of the Human Era** *by James Barrat* - 322 pages
+- [ ] [**Our Final Invention: Artificial Intelligence and the End of the Human Era**](https://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/0312622376) *by James Barrat* - 322 pages
 - [ ] **Code: The Hidden Language of Computer Hardware and Software** *by Charles Petzold* - 400 pages
 - [ ] **Design Patterns: Elements of Reusable Object-Oriented Software** *by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides* - 395 pages
 - [ ] **Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability** *by Steve Krug* - 216 pages
