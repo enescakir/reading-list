@@ -1,18 +1,18 @@
 # Reading List
 - [ ] [**Our Final Invention: Artificial Intelligence and the End of the Human Era**](https://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/0312622376) *by James Barrat* - 322 pages
-- [ ] **Code: The Hidden Language of Computer Hardware and Software** *by Charles Petzold* - 400 pages
-- [ ] **Design Patterns: Elements of Reusable Object-Oriented Software** *by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides* - 395 pages
-- [ ] **Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability** *by Steve Krug* - 216 pages
-- [ ] **Hooked: How to Build Habit-Forming Products** *by Nir Eyal* - 256 pages
-- [ ] **Superintelligence: Paths, Dangers, Strategies** *by Nick Bostrom* - 390 pages
-- [ ] **The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution** *by Walter Isaacson* - 560 pages
-- [ ] **Clean Code: A Handbook of Agile Software Craftsmanship** *by Robert C. Martin* - 464 pages
-- [ ] **The Clean Coder: A Code of Conduct for Professional Programmers** *by Robert C. Martin* - 256 pages
-- [ ] **The Mythical Man-Month: Essays on Software Engineering** *by Frederick P. Brooks Jr.* - 336 pages
-- [ ] **The Pragmatic Programmer: From Journeyman to Master** *by Andrew Hunt, David Thomas* - 352 pages
-- [ ] **Code Complete: A Practical Handbook of Software Construction** *by Steve McConnell* - 960 pages
-- [ ] **Concepts of Programming Languages** *Robert W. Sebesta* - 792 pages
-- [ ] **A Million Years in a Day: A Curious History of Daily Life** *by Greg Jenner* - 368 pages
+- [ ] [**Code: The Hidden Language of Computer Hardware and Software**](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) *by Charles Petzold* - 400 pages
+- [ ] [**Design Patterns: Elements of Reusable Object-Oriented Software**](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) *by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides* - 395 pages
+- [ ] [**Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability**](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515) *by Steve Krug* - 216 pages
+- [ ] [**Hooked: How to Build Habit-Forming Products**](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788) *by Nir Eyal* - 256 pages
+- [ ] [**Superintelligence: Paths, Dangers, Strategies**](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111) *by Nick Bostrom* - 390 pages
+- [ ] [**The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution**](https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703) *by Walter Isaacson* - 560 pages
+- [ ] [**Clean Code: A Handbook of Agile Software Craftsmanship**](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) *by Robert C. Martin* - 464 pages
+- [ ] [**The Clean Coder: A Code of Conduct for Professional Programmers**](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) *by Robert C. Martin* - 256 pages
+- [ ] [**The Mythical Man-Month: Essays on Software Engineering**](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) *by Frederick P. Brooks Jr.* - 336 pages
+- [ ] [**The Pragmatic Programmer: From Journeyman to Master**](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) *by Andrew Hunt, David Thomas* - 352 pages
+- [ ] [**Code Complete: A Practical Handbook of Software Construction**](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) *by Steve McConnell* - 960 pages
+- [ ] [**Concepts of Programming Languages**](https://www.amazon.com/Concepts-Programming-Languages-Robert-Sebesta/dp/013394302X) *Robert W. Sebesta* - 792 pages
+- [ ] [**A Million Years in a Day: A Curious History of Daily Life**](https://www.amazon.com/Million-Years-Day-Curious-History/dp/0297869787) *by Greg Jenner* - 368 pages
 
 ## Steve Jobs Recommendations
 - [ ] **Moby Dick** *by Herman Melville* - 256 pages
